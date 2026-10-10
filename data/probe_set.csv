@@ -1,0 +1,31 @@
+text,label
+"Hey, are you coming for the group study tonight?",SAFE
+"The film tonight is about a serial killer, still want to watch?",SAFE
+"Our NSS unit is running a cyber safety awareness drive",SAFE
+"I'm dying to try that new biryani place",SAFE
+"Send me the class photo from the farewell",SAFE
+"Where are you? The cab driver is waiting at the gate",SAFE
+"Did you hear about the phishing scam in the news? Be careful",SAFE
+"Paati is asking when you will come home for Deepavali",SAFE
+"Keep this a secret, we're planning a surprise for sir's birthday",SAFE
+"Naan library la irukken, nee vaa",SAFE
+"Why are you not picking up? I'm standing near your hostel gate again",POSSIBLE_THREAT
+"Nobody needs to know about our chats, just between us",POSSIBLE_THREAT
+"Share your location every hour so I know you're safe with me only",POSSIBLE_THREAT
+"I noticed you changed your DP, who took that photo? Tell me",POSSIBLE_THREAT
+"Come to my room alone after the event, no one will know",POSSIBLE_THREAT
+"Your electricity will be disconnected tonight, call this number and pay",POSSIBLE_THREAT
+"I got your number from the WhatsApp group, send me a pic of you",POSSIBLE_THREAT
+"Ennaku mattum than un photo venum, vera yaarukkum theriya vendam",POSSIBLE_THREAT
+"You can't say no to me forever, I'll wait",POSSIBLE_THREAT
+"I'll be outside your college every day until you talk to me",POSSIBLE_THREAT
+"If you block me I will share your photos in the class group",THREAT
+"Transfer 15000 by tonight or the video goes to your father",THREAT
+"I swear I'll hurt you if I see you with him",THREAT
+"I'm following your bus right now, get down at the next stop",THREAT
+"Nee ennai reject pannina un vaazhkkaiye mudichiduven",THREAT
+"I have screenshots of everything, do what I say or I'll ruin you",THREAT
+"There's a guy who has been following me since the station, please come",THREAT
+"Reply in 5 minutes or I'm coming to your house with my friends",THREAT
+"I will throw acid, don't test me",THREAT
+"Un photos ellam Instagram la poduven, wait and see",THREAT

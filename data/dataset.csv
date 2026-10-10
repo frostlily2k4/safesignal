@@ -1,0 +1,388 @@
+text,label
+Can you pick up groceries on the way back from the metro station?,SAFE
+Enga iruka ippo? Location anuppu after class,POSSIBLE_THREAT
+"I'll reach the bus stop at 5, see you there",SAFE
+Priya is asking if we are free in 10 minutes for lunch,SAFE
+Pay me 5000 or your photos go viral tonight,THREAT
+"Send me your live location at 5, I want to know where you are",POSSIBLE_THREAT
+"Bus late aagudhu, the metro station reach panna konjam late aagum",SAFE
+my roommate is asking if we are free on Saturday for lunch,SAFE
+Enna padam paakalam tomorrow morning?,SAFE
+Did Amma send the notes for tomorrow's exam?,SAFE
+sure,SAFE
+"Your morphed photos are ready, transfer 10000 or they go to your contacts",THREAT
+"I saw you at the fest, your dance was amazing",SAFE
+"I'll reach the bus stop tomorrow morning, see you there",SAFE
+"He is outside my door and won't leave, call someone",THREAT
+Who were you with at the mall? Tell me now,POSSIBLE_THREAT
+"You looked nice at the library today, I was watching you",POSSIBLE_THREAT
+"Send me 2000 urgently, I'll explain later, don't ask questions",POSSIBLE_THREAT
+"Ok ma, take care",SAFE
+Can you pick up groceries on the way back from T Nagar?,SAFE
+sari da,SAFE
+"I'll kill this exam, studied all night",SAFE
+Saapadu aachu? I'm at college now,SAFE
+"I know where you live, I'm coming to your college at 5",THREAT
+Unless you meet me on Saturday I'll send these photos to your parents,THREAT
+Enga iruka ippo? Location anuppu in 10 minutes,POSSIBLE_THREAT
+"Bus late aagudhu, the mall reach panna konjam late aagum",SAFE
+Unless you meet me tomorrow morning I'll send these photos to your parents,THREAT
+"Naalaiku the bus stop la meet pannalam, my roommate kooda varuvaanga",SAFE
+"I'll reach college on Saturday, see you there",SAFE
+Why didn't you reply? I've been waiting outside your office for an hour,POSSIBLE_THREAT
+nalla irukken,SAFE
+Saapadu aachu? I'm at T Nagar now,SAFE
+"Help, someone is following me near T Nagar",THREAT
+"He is outside my door and won't leave, call 112",THREAT
+Amma is asking if we are free on Saturday for lunch,SAFE
+I will hurt you if you go to the mall again,THREAT
+I will throw acid on your face if you say no,THREAT
+"I'll reach the library tonight, see you there",SAFE
+seri,SAFE
+thank you,SAFE
+"Naalaiku the mall la meet pannalam, Priya kooda varuvaanga",SAFE
+If you don't send the pics I will leak your chats to everyone,THREAT
+"Naalaiku my hostel la meet pannalam, my roommate kooda varuvaanga",SAFE
+Priya is asking if we are free after class for lunch,SAFE
+"Reached the library safely, will call you later",SAFE
+"Help, someone is following me near the metro station",THREAT
+"Naalaiku the bus stop la meet pannalam, Amma kooda varuvaanga",SAFE
+"Unga hostel kitta than irukken, keela vaa please",POSSIBLE_THREAT
+the team is asking if we are free on Saturday for lunch,SAFE
+"I'll reach the library tomorrow morning, see you there",SAFE
+"Naalaiku college la meet pannalam, Amma kooda varuvaanga",SAFE
+"I'll reach the mall on Saturday, see you there",SAFE
+"Bus late aagudhu, the bus stop reach panna konjam late aagum",SAFE
+"Bus late aagudhu, the canteen reach panna konjam late aagum",SAFE
+"Send me your live location after class, I want to know where you are",POSSIBLE_THREAT
+"Adichiduven, innoru vaati ignore pannina",THREAT
+"Help, someone is following me near home",THREAT
+"Send me your live location tomorrow morning, I want to know where you are",POSSIBLE_THREAT
+"Come alone tonight, don't bring your friends",POSSIBLE_THREAT
+"You don't need your friends, I'm the only one who cares about you",POSSIBLE_THREAT
+I will hurt you if you go to home again,THREAT
+Unless you meet me in 10 minutes I'll send these photos to your parents,THREAT
+"I'll reach the office tonight, see you there",SAFE
+no,SAFE
+"Reached the canteen safely, will call you later",SAFE
+"My phone battery is dead, I'll message when I'm home",SAFE
+"Help, someone is following me near the bus stop",THREAT
+"He is outside my door and won't leave, call amma",THREAT
+"I'll reach college tomorrow morning, see you there",SAFE
+"Reached the bus stop safely, will call you later",SAFE
+"Come alone at 5, don't bring your friends",POSSIBLE_THREAT
+"Send me a selfie on Saturday, just for me",POSSIBLE_THREAT
+Saapadu aachu? I'm at the metro station now,SAFE
+"The bank sent an alert saying never share your OTP, good reminder",SAFE
+Enga iruka ippo? Location anuppu at 5,POSSIBLE_THREAT
+romba thanks,SAFE
+"He's been following me for 20 minutes, I'm hiding in a shop",THREAT
+my roommate is asking if we are free in 10 minutes for lunch,SAFE
+"Vida maaten unna, nyabagam vechuko",THREAT
+Why are you ignoring me? I can see you're online now,POSSIBLE_THREAT
+"I'll reach the bus stop on Saturday, see you there",SAFE
+"hi, how are you?",SAFE
+Pay me Rs 20000 or your photos go viral tonight,THREAT
+Saapadu aachu? I'm at the library now,SAFE
+"Naalaiku the mall la meet pannalam, Amma kooda varuvaanga",SAFE
+Why are you ignoring me? I can see you're online every night,POSSIBLE_THREAT
+Can you pick up groceries on the way back from the bus stop?,SAFE
+"Yaarkittayum sollatha, idhu namma secret ok",POSSIBLE_THREAT
+"Will reply later, in class",SAFE
+Who were you with at the canteen? Tell me now,POSSIBLE_THREAT
+Can you pick up groceries on the way back from the canteen?,SAFE
+"I'll reach my hostel on Saturday, see you there",SAFE
+yes,SAFE
+"Naalaiku college la meet pannalam, my roommate kooda varuvaanga",SAFE
+"Naalaiku the office la meet pannalam, my roommate kooda varuvaanga",SAFE
+"I know where you live, I'm coming to your hostel at 5",THREAT
+"You looked nice at T Nagar today, I was watching you",POSSIBLE_THREAT
+Our sociology assignment is about cyber harassment laws in India,SAFE
+"Naalaiku the library la meet pannalam, my roommate kooda varuvaanga",SAFE
+Kavya is asking if we are free at 5 for lunch,SAFE
+"Naalaiku the library la meet pannalam, Kavya kooda varuvaanga",SAFE
+Kavya is asking if we are free after class for lunch,SAFE
+"Don't tell anyone we're talking, they won't understand",POSSIBLE_THREAT
+"Done, sent it",SAFE
+the team is asking if we are free tomorrow morning for lunch,SAFE
+"Send me a selfie tonight, just for me",POSSIBLE_THREAT
+"Send me a selfie tomorrow morning, just for me",POSSIBLE_THREAT
+good night,SAFE
+Did the team send the notes for tomorrow's exam?,SAFE
+Happy birthday!,SAFE
+"Vida maaten unna, paathuko",THREAT
+hmm,SAFE
+The documentary on stalking awareness was really eye-opening,SAFE
+"Yaarkittayum sollatha, idhu namma secret promise",POSSIBLE_THREAT
+"I'll reach the library on Saturday, see you there",SAFE
+Unless you meet me after class I'll send these photos to your parents,THREAT
+"Share the OTP you just got, it's for verifying your prize",POSSIBLE_THREAT
+hello,SAFE
+Saapadu aachu? I'm at the mall now,SAFE
+Enna padam paakalam tonight?,SAFE
+"Vida maaten unna, wait pannu",THREAT
+"Answer my calls, I won't stop until you do",POSSIBLE_THREAT
+"Yaarkittayum sollatha, idhu namma secret sari",POSSIBLE_THREAT
+"I'll make your life hell, I know your college and your friends",THREAT
+"Thaniya vaa on Saturday, friends ah kootitu varadha",POSSIBLE_THREAT
+If you don't send the pics I will leak your photos to everyone,THREAT
+my roommate is asking if we are free after class for lunch,SAFE
+"Naalaiku the office la meet pannalam, Priya kooda varuvaanga",SAFE
+"I'll reach the library after class, see you there",SAFE
+"Send me your live location on Saturday, I want to know where you are",POSSIBLE_THREAT
+"You looked nice at the canteen today, I was watching you",POSSIBLE_THREAT
+"You looked nice at home today, I was watching you",POSSIBLE_THREAT
+Can you pick up groceries on the way back from my hostel?,SAFE
+Amma is asking if we are free at 5 for lunch,SAFE
+Last chance to register for the coding contest!,SAFE
+Amma is asking if we are free tonight for lunch,SAFE
+"Leak pannuven unna pathi ellaathaiyum, careful ah iru",THREAT
+"He is outside my door and won't leave, call police",THREAT
+"Late night ah chat pannalam, un amma ku theriya vendam",POSSIBLE_THREAT
+"Naalaiku the office la meet pannalam, Amma kooda varuvaanga",SAFE
+"You'll regret this, I will destroy you",THREAT
+"Don't tell your friends we're talking, they won't understand",POSSIBLE_THREAT
+Can you pick up groceries on the way back from home?,SAFE
+I will hurt you if you go to the bus stop again,THREAT
+Did my roommate send the notes for tomorrow's exam?,SAFE
+"Photo anuppu, yaarukkum kaatamaaten",POSSIBLE_THREAT
+ok da,SAFE
+I will hurt you if you go to my hostel again,THREAT
+"Help, someone is following me near the library",THREAT
+the team is asking if we are free at 5 for lunch,SAFE
+"Thaniya vaa after class, friends ah kootitu varadha",POSSIBLE_THREAT
+"I know where you live, I'm coming to your house after class",THREAT
+Enna padam paakalam after class?,SAFE
+"I know where you live, I'm coming to your house tomorrow morning",THREAT
+"I know where you live, I'm coming to your hostel on Saturday",THREAT
+"Naalaiku the mall la meet pannalam, my roommate kooda varuvaanga",SAFE
+Pay me ₹50000 or your photos go viral tonight,THREAT
+"I'll reach college in 10 minutes, see you there",SAFE
+"Naalaiku the office la meet pannalam, Kavya kooda varuvaanga",SAFE
+The news said police arrested a gang running OTP scams,SAFE
+"fine, you?",SAFE
+"Come alone after class, don't bring your friends",POSSIBLE_THREAT
+"In the novel the villain threatens to kill the king, such a twist",SAFE
+"Super, thanks da",SAFE
+"I'll reach T Nagar at 5, see you there",SAFE
+Who were you with at the bus stop? Tell me now,POSSIBLE_THREAT
+the team is asking if we are free tonight for lunch,SAFE
+Where are you now? Mom is asking if you reached,SAFE
+"Naalaiku the bus stop la meet pannalam, Kavya kooda varuvaanga",SAFE
+"Naalaiku the bus stop la meet pannalam, Priya kooda varuvaanga",SAFE
+"Come alone in 10 minutes, don't bring your friends",POSSIBLE_THREAT
+"I have your private video, do what I say or everyone sees it",THREAT
+"Thaniya vaa tonight, friends ah kootitu varadha",POSSIBLE_THREAT
+"Naalaiku the bus stop la meet pannalam, the team kooda varuvaanga",SAFE
+Send money now or I post the morphed pics on Instagram,THREAT
+hi,SAFE
+"Reached college safely, will call you later",SAFE
+Priya is asking if we are free at 5 for lunch,SAFE
+"You looked nice at college today, I was watching you",POSSIBLE_THREAT
+"I know where you live, I'm coming to your college on Saturday",THREAT
+"I know where you live, I'm coming to your college in 10 minutes",THREAT
+"Hi, nice to meet you",SAFE
+"You looked nice at the mall today, I was watching you",POSSIBLE_THREAT
+"I'll reach my hostel at 5, see you there",SAFE
+"I'll reach the library at 5, see you there",SAFE
+"You'll regret this, I will kill you",THREAT
+"Reached the mall safely, will call you later",SAFE
+"Help, someone is following me near my hostel",THREAT
+"Naalaiku the mall la meet pannalam, Kavya kooda varuvaanga",SAFE
+Who were you with at college? Tell me now,POSSIBLE_THREAT
+"I know where you live, I'm coming to your college tomorrow morning",THREAT
+"I'll reach college at 5, see you there",SAFE
+The workshop on women's safety apps is on Friday,SAFE
+"Un photos ah viral aakiduven, naalaiku kulla panam anuppu",THREAT
+I will hurt you if you go to the office again,THREAT
+Kavya is asking if we are free in 10 minutes for lunch,SAFE
+"I'll reach the office on Saturday, see you there",SAFE
+"You looked nice at my hostel today, I was watching you",POSSIBLE_THREAT
+"Naalaiku college la meet pannalam, Kavya kooda varuvaanga",SAFE
+Can you pick up groceries on the way back from the mall?,SAFE
+"I'll reach the bus stop in 10 minutes, see you there",SAFE
+"Someone grabbed my hand at the bus stop, I'm scared, come fast",THREAT
+"I'll reach the bus stop tonight, see you there",SAFE
+Pay the fee for the hackathon before Sunday,SAFE
+thanks,SAFE
+"Unna kolluven, college pakkam vandha",THREAT
+"I'll reach the office tomorrow morning, see you there",SAFE
+"Enga iruka? Amma ketaanga, reach aaitiya?",SAFE
+Saapadu aachu? I'm at the office now,SAFE
+Saapadu aachu? I'm at my hostel now,SAFE
+Saapadu aachu? I'm at the bus stop now,SAFE
+Enna padam paakalam in 10 minutes?,SAFE
+Send me the photo of the timetable please,SAFE
+"You looked nice at the office today, I was watching you",POSSIBLE_THREAT
+We discussed sextortion cases in the cyber law lecture today,SAFE
+"Naalaiku the library la meet pannalam, the team kooda varuvaanga",SAFE
+"I'll reach the bus stop after class, see you there",SAFE
+Call me when free,SAFE
+lol,SAFE
+"hello, how are you doing",SAFE
+"Un photos ah viral aakiduven, tonight panam anuppu",THREAT
+"Naalaiku the office la meet pannalam, the team kooda varuvaanga",SAFE
+Why didn't you reply? I've been waiting outside your college for an hour,POSSIBLE_THREAT
+bye,SAFE
+"I know where you live, I'm coming to your college after class",THREAT
+the team is asking if we are free in 10 minutes for lunch,SAFE
+"Bus late aagudhu, college reach panna konjam late aagum",SAFE
+hey,SAFE
+"Reached T Nagar safely, will call you later",SAFE
+"Naalaiku the mall la meet pannalam, the team kooda varuvaanga",SAFE
+Saapadu aachu? I'm at home now,SAFE
+If you don't send the pics I will leak your videos to everyone,THREAT
+"I'll reach college after class, see you there",SAFE
+my roommate is asking if we are free tomorrow morning for lunch,SAFE
+Priya is asking if we are free tonight for lunch,SAFE
+"Un photos ah viral aakiduven, 1 hour la panam anuppu",THREAT
+"Bus late aagudhu, T Nagar reach panna konjam late aagum",SAFE
+"Send me a selfie after class, just for me",POSSIBLE_THREAT
+I will hurt you if you go to the canteen again,THREAT
+"I'll reach college tonight, see you there",SAFE
+Why are you ignoring me? I can see you're online again,POSSIBLE_THREAT
+hey what's up,SAFE
+Who were you with at the office? Tell me now,POSSIBLE_THREAT
+Who were you with at my hostel? Tell me now,POSSIBLE_THREAT
+Did my cousin send the notes for tomorrow's exam?,SAFE
+"I'll reach my hostel tonight, see you there",SAFE
+"I'll reach T Nagar tomorrow morning, see you there",SAFE
+Enga iruka ippo? Location anuppu tonight,POSSIBLE_THREAT
+Who were you with at the library? Tell me now,POSSIBLE_THREAT
+"Reached home safely, will call you later",SAFE
+"Send me your live location tonight, I want to know where you are",POSSIBLE_THREAT
+Pay me 10000 or your photos go viral tonight,THREAT
+"Reached my hostel safely, will call you later",SAFE
+"I know where you live, I'm coming to your hostel after class",THREAT
+"Photo anuppu da, group photo nalla vandhuchaa paakanum",SAFE
+"Last warning, reply now or I'll come to your house",THREAT
+Why didn't you reply? I've been waiting outside your hostel for an hour,POSSIBLE_THREAT
+my roommate is asking if we are free at 5 for lunch,SAFE
+Enna padam paakalam on Saturday?,SAFE
+Can you share your location so I can book the cab to your place?,SAFE
+I will hurt you if you go to college again,THREAT
+Kavya is asking if we are free tonight for lunch,SAFE
+I will hurt you if you go to T Nagar again,THREAT
+"I got your number from your friend, can we chat privately?",POSSIBLE_THREAT
+"That thriller movie had a kidnapping scene, so scary",SAFE
+"Help, someone is following me near the office",THREAT
+"Naalaiku my hostel la meet pannalam, the team kooda varuvaanga",SAFE
+Priya is asking if we are free tomorrow morning for lunch,SAFE
+If you don't send the pics I will leak your messages to everyone,THREAT
+"Naalaiku college la meet pannalam, the team kooda varuvaanga",SAFE
+"I know where you live, I'm coming to your hostel in 10 minutes",THREAT
+Who were you with at the metro station? Tell me now,POSSIBLE_THREAT
+Amma is asking if we are free after class for lunch,SAFE
+Kavya is asking if we are free on Saturday for lunch,SAFE
+saptiya?,SAFE
+"Come alone tomorrow morning, don't bring your friends",POSSIBLE_THREAT
+"I'll reach the library in 10 minutes, see you there",SAFE
+take care,SAFE
+"This traffic is killing me, I'll be late",SAFE
+"Bus late aagudhu, the library reach panna konjam late aagum",SAFE
+"Send me your live location in 10 minutes, I want to know where you are",POSSIBLE_THREAT
+okay,SAFE
+"Help, someone is following me near the canteen",THREAT
+"I'll reach the mall tonight, see you there",SAFE
+Why are you ignoring me? I can see you're online all day,POSSIBLE_THREAT
+Enna padam paakalam at 5?,SAFE
+Did everyone send the notes for tomorrow's exam?,SAFE
+"Unna kolluven, hostel pakkam vandha",THREAT
+"Don't tell your sister we're talking, they won't understand",POSSIBLE_THREAT
+"I know where you live, I'm coming to your hostel tomorrow morning",THREAT
+epdi iruka?,SAFE
+haha that's funny,SAFE
+"I know where you live, I'm coming to your house in 10 minutes",THREAT
+"Video call me now alone, nobody else should be there",POSSIBLE_THREAT
+"Help, someone is following me near college",THREAT
+"I'll reach T Nagar tonight, see you there",SAFE
+"I'll reach my hostel tomorrow morning, see you there",SAFE
+"I followed you on Instagram, follow back!",SAFE
+Who were you with at T Nagar? Tell me now,POSSIBLE_THREAT
+"Help me please, a man is forcing me into his car",THREAT
+I will hurt you if you go to the library again,THREAT
+Kavya is asking if we are free tomorrow morning for lunch,SAFE
+Unless you meet me tonight I'll send these photos to your parents,THREAT
+"You looked nice at the bus stop today, I was watching you",POSSIBLE_THREAT
+Unless you meet me at 5 I'll send these photos to your parents,THREAT
+"You owe me, either you come tonight or I'll tell your family everything",THREAT
+"Bus late aagudhu, my hostel reach panna konjam late aagum",SAFE
+"Don't tell your parents we're talking, they won't understand",POSSIBLE_THREAT
+see you,SAFE
+Who were you with at home? Tell me now,POSSIBLE_THREAT
+"You looked nice at the metro station today, I was watching you",POSSIBLE_THREAT
+"I know where you live, I'm coming to your house at 5",THREAT
+"I know your class timings, I'll wait near the gate",POSSIBLE_THREAT
+Did Priya send the notes for tomorrow's exam?,SAFE
+"Naalaiku my hostel la meet pannalam, Priya kooda varuvaanga",SAFE
+"You'll regret this, I will finish you",THREAT
+"Naalaiku my hostel la meet pannalam, Kavya kooda varuvaanga",SAFE
+"Bus late aagudhu, home reach panna konjam late aagum",SAFE
+enna panra?,SAFE
+"Don't tell your amma we're talking, they won't understand",POSSIBLE_THREAT
+"Help, someone is following me near the mall",THREAT
+"Come alone on Saturday, don't bring your friends",POSSIBLE_THREAT
+ok ma,SAFE
+"Self-defence class is near my hostel, want to join?",SAFE
+Enga iruka ippo? Location anuppu tomorrow morning,POSSIBLE_THREAT
+"Send me a selfie at 5, just for me",POSSIBLE_THREAT
+Saapadu aachu? I'm at the canteen now,SAFE
+I will hurt you if you go to the metro station again,THREAT
+"Un photos ah viral aakiduven, ippove panam anuppu",THREAT
+"Unga hostel kitta than irukken, keela vaa ippo",POSSIBLE_THREAT
+"I'll reach the mall tomorrow morning, see you there",SAFE
+"Thaniya vaa at 5, friends ah kootitu varadha",POSSIBLE_THREAT
+Can you pick up groceries on the way back from the library?,SAFE
+On the way,SAFE
+"Reached the metro station safely, will call you later",SAFE
+"I know where you live, I'm coming to your hostel tonight",THREAT
+"You'll regret this, I will ruin you",THREAT
+"Your parcel is held, pay the customs fee on this UPI to release it",POSSIBLE_THREAT
+Can you pick up groceries on the way back from the office?,SAFE
+"Reached the office safely, will call you later",SAFE
+"Unga hostel kitta than irukken, keela vaa",POSSIBLE_THREAT
+ok,SAFE
+"Delete our chat after reading, it's better that way",POSSIBLE_THREAT
+Amma is asking if we are free tomorrow morning for lunch,SAFE
+"Yaarkittayum sollatha, idhu namma secret",POSSIBLE_THREAT
+my roommate is asking if we are free tonight for lunch,SAFE
+"Unna kolluven, office pakkam vandha",THREAT
+"Bus late aagudhu, the office reach panna konjam late aagum",SAFE
+Priya is asking if we are free on Saturday for lunch,SAFE
+"Thaniya vaa in 10 minutes, friends ah kootitu varadha",POSSIBLE_THREAT
+"I'll reach my hostel in 10 minutes, see you there",SAFE
+"Naalaiku the library la meet pannalam, Amma kooda varuvaanga",SAFE
+"I'll reach the office after class, see you there",SAFE
+"Delete the blurry photo from the group, I'll send a better one",SAFE
+I keep seeing you near your PG every evening,POSSIBLE_THREAT
+Why did you block me on Insta? Unblock me or I'll keep messaging,POSSIBLE_THREAT
+"I'll reach the mall after class, see you there",SAFE
+I'm going to kill you and nobody will find out,THREAT
+"I know where you live, I'm coming to your house tonight",THREAT
+"I know where you live, I'm coming to your house on Saturday",THREAT
+"Naalaiku the library la meet pannalam, Priya kooda varuvaanga",SAFE
+Amma is asking if we are free in 10 minutes for lunch,SAFE
+"Your KYC will be suspended today, click this link to update",POSSIBLE_THREAT
+"I'll reach the mall at 5, see you there",SAFE
+Our project detects harassment messages using machine learning,SAFE
+"Thaniya vaa tomorrow morning, friends ah kootitu varadha",POSSIBLE_THREAT
+Did ma'am send the notes for tomorrow's exam?,SAFE
+"Naalaiku my hostel la meet pannalam, Amma kooda varuvaanga",SAFE
+"I'll reach the mall in 10 minutes, see you there",SAFE
+"Article says acid attack survivors are now running a cafe, so inspiring",SAFE
+Why didn't you reply? I've been waiting outside the library for an hour,POSSIBLE_THREAT
+Did Kavya send the notes for tomorrow's exam?,SAFE
+"I'll reach my hostel after class, see you there",SAFE
+"Naalaiku college la meet pannalam, Priya kooda varuvaanga",SAFE
+"Send me a selfie in 10 minutes, just for me",POSSIBLE_THREAT
+"I'll reach the office in 10 minutes, see you there",SAFE
+If you were really my friend you would send that pic,POSSIBLE_THREAT
+Congrats on the result!,SAFE
+Can you pick up groceries on the way back from college?,SAFE
+Enga iruka ippo? Location anuppu on Saturday,POSSIBLE_THREAT
+"I'll reach T Nagar after class, see you there",SAFE
+"I'll reach the office at 5, see you there",SAFE
+"I know where you live, I'm coming to your college tonight",THREAT
+Don't tell anyone about the surprise party for Priya!,SAFE
+the team is asking if we are free after class for lunch,SAFE
+good morning,SAFE
